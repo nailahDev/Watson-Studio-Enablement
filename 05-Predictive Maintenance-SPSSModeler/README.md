@@ -17,27 +17,24 @@ If you want more flexibility in preparing your data and building your models tha
 <br></br>
 
 1. Create a **New Flow** from Modeler Flows in the main dashboard of IBM Watson Studio.  
-![1](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/1.jpg?raw=true)
+![1](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/1.png)
 <br></br>
 
 2. Type a **Name** for your Modeler task, select **Modeler Flow** as flow type and select **IBM SPSS Modeler** as runtime.  
-![2](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/2.jpg?raw=true)
+![2](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/2.png)
 <br></br>
 
 3. Let's start by importing our dataset. Click on **Import** on the left-side panel.  
-![3](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/3.jpg?raw=true)
+![3](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/3.png)
 <br></br>
 
-4. Drag and drop **Data Assets** node into the Modeler canvas.  
-![4](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/4.jpg?raw=true)
+4. Drag and drop **Data Assets** node into the Modeler canvas, Double-click the node on the canvas to start editing its properties. 
+ 
+![4](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/4.png)
 <br></br>
 
-5. Double-click the node on the canvas to start editing its properties.  
-![5](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/5.jpg?raw=true)
-<br></br>
-
-6. Click on **Change Data Asset** to define the source of our data.  
-![6](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/6.jpg?raw=true)
+5. Click on **Change Data Asset** to define the source of our data.  
+![5](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/5.png)
 <br></br>
 
 7. A list of all the data assets you have in this project will be listed. Let's select `customers_credit_status.csv`, available [here](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/03-LoanApprovalModel/customers_credit_status.csv).  
