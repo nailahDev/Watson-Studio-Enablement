@@ -76,27 +76,27 @@ After selecting the dataset, click **Ok**.
 <br></br>
 
 16. We want to split our data into Train and Test sets, we will do so using the **Partition** node.  
-![16](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/16.jpg?raw=true)
+![16](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/15.png)
 <br></br>
 
 17. Double-clicking on the **Partition** node to explore its properties. We'll leave everything as it is.  
-![17](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/17.jpg?raw=true)
+![17](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/16.png)
 <br></br>
 
 18. We'll add **Auto Data Prep** to automatically find issues in our dataset and fix it.  
-![18](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/18.jpg?raw=true)
+![18](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/17.png)
 <br></br>
 
 19. We'll do another **Data Audit** to check the results of the previous step.  
-![19](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/19.jpg?raw=true)
+![19](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/18.png)
 <br></br>
 
 20. View the results.  
-![20](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/20.jpg?raw=true)
+![20](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/19.png)
 <br></br>
 
 21. The data has been normalized and issues have been fixed.  
-![21](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/21.jpg?raw=true)
+![21](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/20.png)
 <br></br>
 
 22. Now let's select a model, let's try **LSVM**.  
