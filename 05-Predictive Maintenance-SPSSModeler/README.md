@@ -99,40 +99,40 @@ After selecting the dataset, click **Ok**.
 ![21](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/20.png)
 <br></br>
 
-22. Now let's select a model, let's try **LSVM**.  
-![22](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/22.jpg?raw=true)
+22. Now let's select a model, let's try **C&R Tree**.  
+![22](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/21.png)
 <br></br>
 
-23. Double-clicking on the **LSVM** node to change its properties. Check **Use custom field roles**, then select `class_transformed` as the target(labels) column and select all other columns as **Inputs**. Click **Save**.  
-![23](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/23.jpg?raw=true)
+23. Double-clicking on the **C&R** node to change its properties. Check **Use custom field roles**, then select `Target_transformed` as the target(labels) column and select all other columns as **Inputs**. Click **Save**.  
+![23](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/22.png)
 <br></br>
 
 24. Let's run the flow.  
-![24](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/24.jpg?raw=true)
+![24](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/23.png)
 <br></br>
 
 25. Wait for the process to finish. It may take a few minutes.  
-![25](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/25.jpg?raw=true)
+![25](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/24.png)
 <br></br>
 
 26. After the model runs, it will produce a new node that holds information about the performance of the model.  
-![26](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/26.jpg?raw=true)
+![26](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/25.png)
 <br></br>
 
 27. Let's add an **Analysis** node to peek into the model results node.  
-![27](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/27.jpg?raw=true)
+![27](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/26.png)
 <br></br>
 
 28. Connect the nodes.  
-![28](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/28.jpg?raw=true)
+![28](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/27.png)
 <br></br>
 
 29. View the output.  
-![29](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/29.jpg?raw=true)
+![29](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/28.png)
 <br></br>
 
 30. Information about how our model performed.  
-![30](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/30.jpg?raw=true)
+![30](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/29.png)
 <br></br>
 
 31. I added a few other models for comparison. Feel free to try your own combinations.  
