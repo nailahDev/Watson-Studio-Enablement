@@ -160,18 +160,18 @@ After selecting the dataset, click **Ok**.
 <br></br>
 
 34. We're satisfied with our second model, it has better overall performance. Let's click on its node **LSVM** and select **Save branch as model**.  
-![40](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/40.jpg?raw=true)
+![40](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/38.png)
 <br></br>
 
-35. Type a name for your model and a machine learning service should be detected and added automatically. Then click **Save**.  ![41](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/41.jpg?raw=true)
+35. Type a name for your model and a machine learning service should be detected and added automatically. Then click **Save**.  ![41](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/39.png)
 <br></br>
 
 36. The model has been saved successfully.  
-![42](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/42.jpg?raw=true)
+![42](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/40.png)
 <br></br>
 
 37. You can access it in the Models panel in the main dashboard.  
-![43](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/43.jpg?raw=true)
+![43](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/41.png)
 <br></br>
 
 
