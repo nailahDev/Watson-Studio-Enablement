@@ -3,7 +3,7 @@
 In this how-to, you will go through the process of preparing data and building a predictive model using IBM SPSS Modeler.
 
 The business use case for this how-to is to assess the risk of a loan application, hence, approving the application and giving the loan to a customer or rejecting the application.  
-The dataset used in this how-to is free, open-source and available here: [http://bml.io/W2SpyF](http://bml.io/W2SpyF).  
+The dataset used in this how-to is free, open-source and available here: [Predictive Maintenance Data](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/04-Predictive%20Maintenance%20-%20Exploring%20SensorsWMLModeler/sensorData-Training%20set.csv).  
 
 The dataset contains details about customers applying for loans. Examples of the details available are: checking status, duration, credit history, purpose, credit amount, savings status, employment, etc.
 
