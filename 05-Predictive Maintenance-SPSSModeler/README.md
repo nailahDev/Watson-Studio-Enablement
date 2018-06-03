@@ -149,17 +149,17 @@ After selecting the dataset, click **Ok**.
 ![39](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/33.png)
 <br></br>
 
-33. Checking another model's performance (Random Forest) as we did in the previous step.  
-![32](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/32.jpg?raw=true)
+33. Checking another model's performance (LSVM) as we did in the previous step.  
+![32](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/34.png)
 <br></br>
-![33](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/33.jpg?raw=true)
+![33](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/35.png)
 <br></br>
-![34](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/34.jpg?raw=true)
+![34](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/36.png)
 <br></br>
-![35](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/35.jpg?raw=true)
+![35](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/37.png)
 <br></br>
 
-34. We're satisfied with our first model, it has better overall performance. Let's click on its node **LSVM** and select **Save branch as model**.  
+34. We're satisfied with our second model, it has better overall performance. Let's click on its node **LSVM** and select **Save branch as model**.  
 ![40](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/40.jpg?raw=true)
 <br></br>
 
