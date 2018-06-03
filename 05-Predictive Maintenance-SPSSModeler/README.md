@@ -12,8 +12,8 @@ IBM SPSS is availble on [IBM Watson Studio](https://dataplatform.ibm.com/home?co
 If you want more flexibility in preparing your data and building your models than what Watson Studio's Automatic Modeler offers, but still want the ease of use of a GUI interface and less code writing and complexity, you can use IBM SPSS Modeler for exactly that.
 <br></br>
 
->> To upload the dataset to IBM Watson Studio and start working with it, refer to the screenshot below. **Note:** The name of the dataset in the screenshot is different.   
-![a](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/02-CreditCardApprovalModel/imgs/2.jpg?raw=true)
+>> To upload the dataset to IBM Watson Studio and start working with it, refer to the screenshot below. 
+![a](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/0.1.png)
 <br></br>
 
 1. Create a **New Flow** from Modeler Flows in the main dashboard of IBM Watson Studio.  
