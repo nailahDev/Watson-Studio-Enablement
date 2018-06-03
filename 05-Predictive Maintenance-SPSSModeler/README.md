@@ -128,25 +128,25 @@ After selecting the dataset, click **Ok**.
 <br></br>
 
 29. View the output.  
-![29](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/28.png)
+![29](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/27.png)
 <br></br>
 
 30. Information about how our model performed.  
-![30](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/29.png)
+![30](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/28.png)
 <br></br>
 
 31. I added a few other models for comparison. Feel free to try your own combinations.  
-![31](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/31.jpg?raw=true)
+![31](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/29.png)
 <br></br>
 
-32. If we click on the **LSVM** model node again and choose **View model**, we will get more detailed information about different performance metrics.  
-![36](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/36.jpg?raw=true)
+32. If we click on the **C&R Tree** model node again and choose **View model**, we will get more detailed information about different performance metrics.  
+![36](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/30.png)
 <br></br>
-![37](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/37.jpg?raw=true)
+![37](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/31.png)
 <br></br>
-![38](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/38.jpg?raw=true)
+![38](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/32.png)
 <br></br>
-![39](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/39.jpg?raw=true)
+![39](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/33.png)
 <br></br>
 
 33. Checking another model's performance (Random Forest) as we did in the previous step.  
