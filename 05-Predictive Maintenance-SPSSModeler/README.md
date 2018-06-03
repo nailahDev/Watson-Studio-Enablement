@@ -37,42 +37,42 @@ If you want more flexibility in preparing your data and building your models tha
 ![5](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/5.png)
 <br></br>
 
-7. A list of all the data assets you have in this project will be listed. Let's select `customers_credit_status.csv`, available [here](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/03-LoanApprovalModel/customers_credit_status.csv).  
-**Note:** Names of datasets in the screenshots may be different from what you have.  
+6. A list of all the data assets you have in this project will be listed. Let's select `sensorData-Training set.csv`, available [here](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/04-Predictive%20Maintenance%20-%20Exploring%20SensorsWMLModeler/sensorData-Training%20set.csv).  
+ 
 After selecting the dataset, click **Ok**.  
-![7](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/7.jpg?raw=true)
+![6](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/6.png)
 <br></br>
 
-8. Making sure the dataset is imported. Click **Save**.  
-![8](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/8.jpg?raw=true)
+7. Making sure the dataset is imported. Click **Save**.  
+![7](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/7.png)
 <br></br>
 
-9. Let's check our data quality. Drag and drop **Data Audit** node.  
-![9](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/9.jpg?raw=true)
+8. Let's check our data quality. Drag and drop **Data Audit** node.  
+![8](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/8.png)
 <br></br>
 
-10. Connect the nodes.  
-![10](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/10.jpg?raw=true)
+9. Connect the nodes.  
+![10](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/9.png)
 <br></br>
 
-11. Let's run the flow to get the results of the data audit.  
-![11](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/11.jpg?raw=true)
+10. Let's run the flow to get the results of the data audit.  
+![11](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/10.png)
 <br></br>
 
-12. Wait for the process to finish.  
-![12](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/12.jpg?raw=true)
+11. Wait for the process to finish.  
+![12](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/11.png)
 <br></br>
 
-13. In the right-side panel, under the **Outputs** tab, let's select the most recent output (most recent is always on top) to view the results of running the flow so far.  
-![13](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/13.jpg?raw=true)
+12. In the right-side panel, under the **Outputs** tab, let's select the most recent output (most recent is always on top) to view the results of running the flow so far.  
+![12](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/12.png)
 <br></br>
 
-14. We get an idea about some statistics of the data and the distribution of the features. We find that the data needs some kind of normalization.  
-![14](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/14.jpg?raw=true)
+13. We get an idea about some statistics of the data and the distribution of the features. We find that the data needs some kind of normalization.  
+![13](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/13.png)
 <br></br>
 
-15. Let's go back to our Modeler and continue working there.  
-![15](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/05-LoanApprovalSPSSModeler/imgs/15.jpg?raw=true)
+14. Let's go back to our Modeler and continue working there.  
+![14](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/14.png)
 <br></br>
 
 16. We want to split our data into Train and Test sets, we will do so using the **Partition** node.  
