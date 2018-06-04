@@ -31,26 +31,22 @@ Then click **Create**.
 ![7](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/02-Predictive%20Maintenance%20Notebook/Images/7.png)
 <br></br>
 
-8. After deployment of the model from the notebook, you can access the trained model from the **Models** panel. Select **Credit Card Approval Model**.    
-![8](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/02-CreditCardApprovalModel/imgs/8.jpg?raw=true)
+8. To Load Data from IBM Cloud Object Storage use the insert to code feature on the right, select insert R data frame
+![8](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/02-Predictive%20Maintenance%20Notebook/Images/8.png)
 <br></br>
 
-9. To check the deployment, click on the **Deployment** tab.  
-![9](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/02-CreditCardApprovalModel/imgs/9.jpg?raw=true)
+9. The code will be inserted to the cell, go ahead and run the cell  
+![9](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/02-Predictive%20Maintenance%20Notebook/Images/9.png)
 <br></br>
 
-10. To test the model on new data, click on **Test** tab.  
-![10](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/02-CreditCardApprovalModel/imgs/10.jpg?raw=true)
+10. the Data will be loaded from Cloud object storage to a table.  
+![10](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/02-Predictive%20Maintenance%20Notebook/Images/10.png)
 <br></br>
 
-11. Select raw input (you can choose to use the form interface as well), copy the data from this gist [https://gist.github.com/HebaNAS/6998045745a5689f42260cb1239d1024](https://gist.github.com/HebaNAS/6998045745a5689f42260cb1239d1024) and paste it in the input field, then hit **Predict**.  
-![11](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/02-CreditCardApprovalModel/imgs/11.jpg?raw=true)
+11. Run the next cell to load the required libraries  
+![11](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/02-Predictive%20Maintenance%20Notebook/Images/11.png)
 <br></br>
 
-12. Now you can see the model's prediction for the input we provided.  
-![12](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/02-CreditCardApprovalModel/imgs/12.jpg?raw=true)
-<br></br>
-
-13. You can choose to view the predictions in a Chart format.  
-![13](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/02-CreditCardApprovalModel/imgs/13.jpg?raw=true)
+12. if you continou to run all the cells you will get information and visulasation about the sensors 
+![12](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/02-Predictive%20Maintenance%20Notebook/Images/13.png)
 <br></br>
