@@ -3,7 +3,7 @@
 In this how-to, you will go through the process of preparing data and building a predictive model using IBM SPSS Modeler.
 
 The business use case for this how-to is to assess the risk of a loan application, hence, approving the application and giving the loan to a customer or rejecting the application.  
-The dataset used in this how-to is free, open-source and available here: [http://bml.io/W2SpyF](http://bml.io/W2SpyF).  
+The dataset used in this how-to is free, open-source and available here: [Predictive Maintenance Data](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/04-Predictive%20Maintenance%20-%20Exploring%20SensorsWMLModeler/sensorData-Training%20set.csv).  
 
 The dataset contains details about customers applying for loans. Examples of the details available are: checking status, duration, credit history, purpose, credit amount, savings status, employment, etc.
 
@@ -12,8 +12,8 @@ IBM SPSS is availble on [IBM Watson Studio](https://dataplatform.ibm.com/home?co
 If you want more flexibility in preparing your data and building your models than what Watson Studio's Automatic Modeler offers, but still want the ease of use of a GUI interface and less code writing and complexity, you can use IBM SPSS Modeler for exactly that.
 <br></br>
 
->> To upload the dataset to IBM Watson Studio and start working with it, refer to the screenshot below. **Note:** The name of the dataset in the screenshot is different.   
-![a](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/02-CreditCardApprovalModel/imgs/2.jpg?raw=true)
+>> To upload the dataset to IBM Watson Studio and start working with it, refer to the screenshot below. 
+![a](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/05-Predictive%20Maintenance-SPSSModeler/Images/0.1.png)
 <br></br>
 
 1. Create a **New Flow** from Modeler Flows in the main dashboard of IBM Watson Studio.  
