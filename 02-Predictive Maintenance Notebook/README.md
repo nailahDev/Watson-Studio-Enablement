@@ -1,34 +1,34 @@
-# Maximize oil company profits by using decision optimization in a Jupyter Notebook and Deploying it on the Cloud
+# Predicting Machine Failure: Exploring Device Data from Watson IoT Platform using Jupyter Notebooks 
 
 1. Start from Watson Studio's main dashboard.  
-![1](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/02-CreditCardApprovalModel/imgs/1.jpg?raw=true)
+![1](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/02-Predictive%20Maintenance%20Notebook/Images/1.png)
 <br></br>
 
 2. Import a dataset (can be found in the current folder on this GitHub repository, named 'cc_applications.csv').  
-![2](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/02-CreditCardApprovalModel/imgs/2.jpg?raw=true)
+![2](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/02-Predictive%20Maintenance%20Notebook/Images/2.png)
 <br></br>
 
 3. Now we can find the dataset in the **Data Assets** panel.  
-![3](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/02-CreditCardApprovalModel/imgs/3.jpg?raw=true)
+![3](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/02-Predictive%20Maintenance%20Notebook/Images/3.png)
 <br></br>
 
 4. Create a new **Notebook**.  
-![4](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/02-CreditCardApprovalModel/imgs/4.jpg?raw=true)
+![4](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/02-Predictive%20Maintenance%20Notebook/Images/4.png)
 <br></br>
 
 5. Select the **From URL** tab to import a notebook.  
-![5](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/02-CreditCardApprovalModel/imgs/5.jpg?raw=true)
+![5](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/02-Predictive%20Maintenance%20Notebook/Images/5.png)
 <br></br>
 
-6. Type in a name for your notebook. In the **Notebook URL** field, type in one of the following urls:  
-- [https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/02-CreditCardApprovalModel/CreditCardApprovalModel.ipynb](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/02-CreditCardApprovalModel/CreditCardApprovalModel.ipynb)
-- [https://dataplatform.ibm.com/analytics/notebooks/v2/dfad9245-29e8-4c86-832b-b23c623ff418/view?access_token=e3d73b7affb4feb737e5010243f24fbe50c1a41792eb282d291d69cf4bbedf75](https://dataplatform.ibm.com/analytics/notebooks/v2/dfad9245-29e8-4c86-832b-b23c623ff418/view?access_token=e3d73b7affb4feb737e5010243f24fbe50c1a41792eb282d291d69cf4bbedf75)  
+6. Type in a name for your notebook. In the **Notebook URL** field, type the following url:  
+- [https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/02-Predictive%20Maintenance%20Notebook/Predicting%20Machine%20Failure%20Notebook.ipynb](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/02-Predictive%20Maintenance%20Notebook/Predicting%20Machine%20Failure%20Notebook.ipynb)
+
 Then click **Create**.  
-![6](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/02-CreditCardApprovalModel/imgs/6.jpg?raw=true)
+![6](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/02-Predictive%20Maintenance%20Notebook/Images/6.png)
 <br></br>
 
 7. Now you can see the notebook. It will have all the details for developing the model and deployment steps.  
-![7](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/02-CreditCardApprovalModel/imgs/7.jpg?raw=true)
+![7](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/02-Predictive%20Maintenance%20Notebook/Images/7.png)
 <br></br>
 
 8. After deployment of the model from the notebook, you can access the trained model from the **Models** panel. Select **Credit Card Approval Model**.    
