@@ -71,38 +71,36 @@ To check out the Live Infographic that has been created using this tutorial clic
 ![16](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/06-Analytics-Dashboard/Images/16.png)
 <br></br>
 
-22. You can choose **Properties** from the top toolbar to change the properties of any object in the visualization. Here I chose text properties.  
-![23](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/06-CustomerDemographicsDashboard/imgs/23.jpg?raw=true)
+17. You can choose **Properties** from the top toolbar to change the properties of any object in the visualization. Here I chose text properties.  
+![18](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/06-Analytics-Dashboard/Images/18.png)
 <br></br>
 
-23. Changing the font weight, alignment and color.  
-![24](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/06-CustomerDemographicsDashboard/imgs/24.jpg?raw=true)
+18. Changing the font weight, alignment and color.  
+![18](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/06-Analytics-Dashboard/Images/19.png)
 <br></br>
 
-24. You can choose different themes for the visualization. Let's switch to a **Dark** theme.  
-![25](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/06-CustomerDemographicsDashboard/imgs/25.jpg?raw=true)
+19. You can choose different themes for the visualization.  
+![19](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/06-Analytics-Dashboard/Images/20.png)
 <br></br>
 
-25. Other properties available for customization.  
-![26](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/06-CustomerDemographicsDashboard/imgs/26.jpg?raw=true)
+20. Let's create another visualization. This time let's pick the `Rock categories` column from our dataset.  
+![20](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/06-Analytics-Dashboard/Images/21.png)
 <br></br>
 
-26. Let's create another visualization. This time let's pick the `marital` column from our dataset.  
-![27](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/06-CustomerDemographicsDashboard/imgs/27.jpg?raw=true)
+21. Let's customize the visualization. I chose a **Pie Chart** for representing the different categories (summary ===> count) of the columns data. I chose to color the chart by `Rock categories` data as well, a differnt color for each category.  
+![21](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/06-Analytics-Dashboard/Images/23.png)
+<br></br>
+![21](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/06-Analytics-Dashboard/Images/24.png)
 <br></br>
 
-27. Let's customize the visualization. I chose a **Pie Chart** for representing the different categories (summary ===> count) of the columns data. I chose to color the chart by `marital` data as well, a differnt color for each category.  
-![28](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/06-CustomerDemographicsDashboard/imgs/28.jpg?raw=true)
+22. Added a couple of other visualizations. You can try different styles.  
+![29](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/06-Analytics-Dashboard/Images/25.png)
 <br></br>
 
-28. Added a couple of other visualizations. You can try different styles.  
-![29](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/06-CustomerDemographicsDashboard/imgs/29.jpg?raw=true)
+23. After finishing the Infographic or the Dashboard, you can create a link to a **Read-Only** version of it and share it with anyone.
+![30](https://github.com/nailahDev/Watson-Studio-Enablement/blob/master/06-Analytics-Dashboard/Images/26.png)
 <br></br>
 
-29. After finishing the Infographic or the Dashboard, you can create a link to a **Read-Only** version of it and share it with anyone.
-![30](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/06-CustomerDemographicsDashboard/imgs/30.jpg?raw=true)
-<br></br>
+30. You can see that all visualizations are interactive!  
 
-30. All visualizations are interactive!  
-![31](https://github.com/HebaNAS/IBM-Watson-Studio-Enablement/blob/master/06-CustomerDemographicsDashboard/imgs/interactive.gif?raw=true)
 <br></br>
